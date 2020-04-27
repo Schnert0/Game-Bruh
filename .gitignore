@@ -1,0 +1,7 @@
+*.gb
+*.dll
+.DS_Store
+*.gb
+*.gbc
+*.sav
+/GameBruh
